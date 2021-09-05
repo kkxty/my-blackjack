@@ -4,10 +4,10 @@ some experiments on blackjack strategies
 I make the following assumptions with my simulations:
 • One player and one dealer are in the game
 • One deck of 52 cards are used
-• After each game, the deck is reset and shued
+• After each game, the deck is reset and shuffled
 • The dealer keeps hitting until a soft 17
 • The initial bet is 1 dollar, and player can double down at most once
-• Each strategy is played with 10000 games to calculate the total prot for
+• Each strategy is played with 10000 games to calculate the total profit for
 comparisons
 
 The following 3 sets of experiments are run:
